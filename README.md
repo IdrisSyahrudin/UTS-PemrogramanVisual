@@ -20,4 +20,4 @@ Kelas : TI.22.A5
 # Hapus Data
 ![Screenshot (272)](https://github.com/user-attachments/assets/55bbc430-e816-4481-a8fd-2cb539e44d4e)
 
-![Uploading Screenshot (273).png…]()
+![Screenshot (273)](https://github.com/user-attachments/assets/4e9b4556-a6db-4aee-a7fe-0a98ad70c337)
